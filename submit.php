@@ -16,7 +16,7 @@ fwrite($file, '  My Description is: ' .$message );
 
 fclose($file);
 
-echo 'your file have been created';
+echo 'Your file have been created';
 
 
  ?>

@@ -21,7 +21,7 @@
     <input type="radio" id="female" name="gender" value="female">
     <label for="female">Female</label><br><br>
     <label for="female">Description:</label><br>
-   <textarea name="message" rows="10" cols="30"></textarea><br><br>
+   <textarea name="message" rows="12" cols="40"></textarea><br><br>
     <input type="submit" value="Submit">
   </form>
 </body>
